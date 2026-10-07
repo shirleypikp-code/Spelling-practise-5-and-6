@@ -1,0 +1,6 @@
+{
+  "name": "SpellQuest: Primary 5 & 6 Spelling Champ",
+  "description": "Fun, vibrant spelling games, daily challenges, customizable avatars, leaderboard, and offline practice for Primary 5 and 6 students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
